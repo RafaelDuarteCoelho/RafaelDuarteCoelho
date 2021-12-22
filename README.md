@@ -21,7 +21,7 @@ I'm Rafael Duarte :brazil:
 
 ## ... Hobbies
 
-- :video_game: Unity Developer
+- :video_game: Unity developer
 - :art: Digital artist (Zbrush|Photoshop)
-- :chess_pawn: Board Game Geek
+- :chess_pawn: Board Game geek
 - :game_die: RPG veteran
