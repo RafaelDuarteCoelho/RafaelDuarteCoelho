@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Rafael Duarte
+I'm Rafael Duarte :brazil:
 
 - Web developer enthusiast
 - Graduated in History (UERJ)
@@ -22,5 +22,6 @@ I'm Rafael Duarte
 ## ... Hobbies
 
 - :video_game: Unity Developer
-- :art: Digital artist (Zbrush)
-- :game_die: Board Game Geek | RPG veteran
+- :art: Digital artist (Zbrush|Photoshop)
+- :chess_pawn: Board Game Geek
+- :game_die: RPG veteran
