@@ -10,7 +10,6 @@ I'm Rafael Duarte :brazil:
 
 - Python
 - Django
-- PostgreSQL
 - C# (Unity environment)
 - HTML/CSS/js
 
