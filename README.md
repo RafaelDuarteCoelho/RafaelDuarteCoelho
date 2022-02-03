@@ -25,8 +25,8 @@ http://rafaelduarte.pythonanywhere.com - I'm creating a website using Django and
 
 ## ... Learning
 
-- Flask
-- React
+- Java
+- Angular
 
 ## ... Hobbies
 
