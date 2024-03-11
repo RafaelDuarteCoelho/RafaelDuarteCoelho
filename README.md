@@ -4,7 +4,7 @@ I'm Rafael Duarte :brazil:
 
 - Web developer enthusiast
 - Graduated in History (UERJ)
-- Information Security student (SENAC)
+- System Development (SENAC)
 
 ## ... Main Tools
 
