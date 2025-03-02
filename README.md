@@ -16,12 +16,8 @@ I'm Rafael Duarte :brazil:
 ## ... Current Project
 
 
-http://rafaelduarte.pythonanywhere.com - I'm creating a website using Django and my frontend skills.
-
 <b>Next steps</b>
- - Implement a shopping cart feature
- - Implement an auction feature
- - Interface overhaul to get rid of this default plain look and give the website a futuristic aesthetics
+
 
 ## ... Learning
 
